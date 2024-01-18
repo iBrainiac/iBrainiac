@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola Earthlings 👋, I’m Frank </h1>
 <h3 align="center">An enthusiastic blockchain Developer|web3 Podcaster|Blockchain Educator</h3>
-<p align="left"> <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="ibrainiac" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="ibrainiac" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrainiac&label=Profile%20views&color=0e75b6&style=flat" alt="ibrainiac" /> </p>
 
 
