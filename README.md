@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Blockchain Projects<br>🌱 I’m currently learning Solidity,Rust,Cairo,JavaScript<br>🤝 I’m looking for help with Cairo, Solidity, Rust<br>👯 I’m looking to collaborate on Blockchain Projects<br>💬 Listen to my podcasts about web3 tech, blockchain & AI https://open.spotify.com/show/3TpQGWTzvXzeesA4j4mxd8 <br>👨‍💻 All of my projects are available at https://github.com/iBrainiac<br>📝 I regularly write tech & blockchain articles on https://medium.com/@hazardcryptos<br>📫 How to reach me franqhazard@gmail.com<br>⚡ Fun fact a dev who is good at all sports weird init!
+🔭 I’m currently working on Blockchain Projects<br>🌱 I’m currently learning Solidity,Rust,Cairo,JavaScript<br>🤝 I’m looking for help with Cairo, Solidity, Rust<br>👯 I’m looking to collaborate on Blockchain Projects<br>💬 Listen to my podcasts about web3 tech, blockchain & AI https://linktr.ee/D_Y_O_R <br>👨‍💻 All of my projects are available at https://github.com/iBrainiac<br>📝 I regularly write tech & blockchain articles on https://medium.com/@hazardcryptos<br>📫 How to reach me franqhazard@gmail.com<br>⚡ Fun fact a dev who is good at all sports weird init!
 
 
 ## 🌐 Socials:
