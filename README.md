@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on AI & Blockchain Projects<br>🌱 I’m currently building on Solidity,TypeScript,Rust,JavaScript<br>🤝 I’m looking for help with Ai,RWA & Depin Blockchain Projects<br>👯 I’m looking to collaborate on Blockchain Projects<br>💬 Listen to my podcasts about web3 tech, blockchain & AI https://linktr.ee/D_Y_O_R <br>👨‍💻 All of my projects are available at https://github.com/iBrainiac<br>📝 I regularly write tech & blockchain articles on https://medium.com/@hazardcryptos<br>📫 How to reach me franqhazard@gmail.com<br>⚡ Fun fact just do it!
+🔭 I’m currently working on AI & Blockchain Projects<br>🌱 I’m currently building AI Agents<br>🤝 I’m looking for help with Ai,RWA & Depin Blockchain Projects<br>👯 I’m looking to collaborate on zk, AI & DeFi <br>💬 Listen to my podcasts about web3 tech, blockchain & AI https://linktr.ee/D_Y_O_R <br>👨‍💻 All of my projects are available at https://github.com/iBrainiac<br>📝 I regularly write tech & blockchain articles on https://medium.com/@hazardcryptos<br>📫 How to reach me franqhazard@gmail.com<br>⚡ Fun fact just do it!
 
 
 ## 🌐 Socials:
